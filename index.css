@@ -91,7 +91,7 @@ fieldset button:hover {
   padding: 20px 0;
 }
 
-.lista-participantes > div {
+.lista-participantes>div {
   border: var(--border);
   border-radius: 8px;
 }
